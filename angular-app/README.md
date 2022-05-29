@@ -8,7 +8,7 @@ This project was created to help represent a fundamental app written with Angula
 
 1. Enter the name of your new repository as _my-static-web-app_
 
-1. Clone your new repository
+1. Clone your new repositoryyy
 
    ```bash
    git clone https://github.com/your-github-organization/my-static-web-app
